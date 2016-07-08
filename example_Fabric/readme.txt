@@ -1,0 +1,1 @@
+http://adw0rd.com/2012/8/14/python-fabric/

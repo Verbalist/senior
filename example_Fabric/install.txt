@@ -1,0 +1,2 @@
+sudo pip install Fabric3
+# https://github.com/mathiasertl/fabric/
